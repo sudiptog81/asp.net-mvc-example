@@ -15,7 +15,7 @@
 
 ## REST Endpoints
 
-- GET /book/getall
+- GET /book/getallbooks
 - DELETE /book/deletebook?id=n
 
 ## NuGet Dependencies
