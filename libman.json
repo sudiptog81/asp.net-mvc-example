@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "datatables@1.10.20",
+      "destination": "wwwroot/lib/datatables/"
+    },
+    {
+      "library": "toastr.js@2.1.4",
+      "destination": "wwwroot/lib/toastr.js/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "sweetalert2@9.15.2",
+      "destination": "wwwroot/lib/sweetalert2/"
+    }
+  ]
+}
